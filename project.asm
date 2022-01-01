@@ -1,12 +1,6 @@
 ;============================================================================
 ;                   COAL LAB PROJECT                                        |
 ;                   TIC TIAC TOE GAME                                       |
-;   GROUP MEMBERS:                                                          |
-;          "       M SIBTAIN ASAD     (BITF19M008)  "                       |
-;          "       M UMAIR            (BITF19M029)  "                       |
-;          "       FATIMA MEHMOOD     (BITF19M019)  "                       | 
-;          "       AYESHA ZAFAR DAR   (BITF19M043)  "                       |
-;          "       FATIMA FARUKH      (BITF19M051)  "                       |
 ;============================================================================
 
 
